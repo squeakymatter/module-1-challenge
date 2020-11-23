@@ -1,6 +1,7 @@
 ### Module 1. HTML CSS Git Challenge: Code Refactor
 
-### Link to 
+### Link to deployed app
+https://squeakymatter.github.io/module-1-challenge/
 
 ### User Story
 
